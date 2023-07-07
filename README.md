@@ -6,7 +6,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Launch](#launch)
 - [Technologies](#technologies)
 
