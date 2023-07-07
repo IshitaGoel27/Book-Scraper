@@ -29,12 +29,7 @@ The purpose of this application was to become more familiar with web scraping.
     - Exit menu
 - Console menu also has a progress bar
 
-## Screenshots
-### Screenshot of Book Catalogue Website
-<img src="./images/screenshots/website.PNG" alt="A screenshot of the website being scraped. It is a website with a catalogue of books.">
 
-### Screenshot of Console Menu
-<img src="./images/screenshots/main.PNG" alt="A screenshot of the application being run in the console.">
 
 ## Launch
 To run, in the console enter:
