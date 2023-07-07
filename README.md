@@ -1,8 +1,4 @@
-<p align="center">
-    <img src="./images/icons/web-scraping.jpg" alt="Web scraping icon." >
-    <img src="./images/icons/python.PNG" alt="Python programming language logo." widht="120%" height="150%" >
-    <img src="./images/icons/aiohttp-icon.png" alt="Aiohttp icon." width="25%"  >
-</p>
+
 
 
 # Book Scraper
