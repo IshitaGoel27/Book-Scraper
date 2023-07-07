@@ -1,0 +1,126 @@
+30-05-2023 10:50:04 INFO     [app.py:29] Loading books list...
+30-05-2023 10:50:07 INFO     [all_books_page.py:47] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+30-05-2023 10:50:07 INFO     [all_books_page.py:47] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.681342601776123
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.6923542022705078
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.691817045211792
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.7147212028503418
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.716454267501831
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.7701222896575928
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.7766895294189453
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.7815752029418945
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.7874765396118164
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.7874765396118164
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.7971537113189697
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.8180971145629883
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.834221363067627
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.8500351905822754
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.8500351905822754
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.8662447929382324
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.8703837394714355
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.887610673904419
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.9023087024688721
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.8971478939056396
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.9133098125457764
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.9291110038757324
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.9239501953125
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.9397318363189697
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.9769515991210938
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.9717907905578613
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.9769515991210938
+30-05-2023 10:50:07 INFO     [async_req.py:37] Page took 0.9769515991210938
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 0.993056058883667
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.0091722011566162
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.024930715560913
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.0197699069976807
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.040661334991455
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.0355005264282227
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.064626932144165
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.0676085948944092
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.0757074356079102
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.0890405178070068
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.09763765335083
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.1005990505218506
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.1087868213653564
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.132584571838379
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.132584571838379
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.1794617176055908
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.2003700733184814
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.2264657020568848
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.242199182510376
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.2578167915344238
+30-05-2023 10:50:08 INFO     [async_req.py:37] Page took 1.2785017490386963
+30-05-2023 10:50:09 INFO     [async_req.py:37] Page took 2.7362239360809326
+30-05-2023 10:50:11 INFO     [app.py:49] Total page requests took 4.6032915115356445
+30-05-2023 11:13:00 INFO     [menu.py:42] Finding best books by rating...
+30-05-2023 11:13:32 INFO     [app.py:29] Loading books list...
+30-05-2023 11:13:34 INFO     [all_books_page.py:47] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+30-05-2023 11:13:34 INFO     [all_books_page.py:47] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.1937448978424072
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2095866203308105
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2095866203308105
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2095866203308105
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2095866203308105
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2254149913787842
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2254149913787842
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2254149913787842
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2254149913787842
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2254149913787842
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2254149913787842
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2413926124572754
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2427148818969727
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2427148818969727
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.249725103378296
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.249725103378296
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.249725103378296
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2577416896820068
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2658779621124268
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2739500999450684
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2739500999450684
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.282057523727417
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2916781902313232
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2990751266479492
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.2990751266479492
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.307298183441162
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.3386540412902832
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.3386540412902832
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.3386540412902832
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.385524034500122
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4011123180389404
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4011123180389404
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4011123180389404
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4167344570159912
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4323885440826416
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4323885440826416
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4480230808258057
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4480230808258057
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4792609214782715
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4792609214782715
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.4792609214782715
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.494847059249878
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.494847059249878
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.5104553699493408
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.526130199432373
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.526130199432373
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.5417540073394775
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.5417540073394775
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.5573632717132568
+30-05-2023 11:13:35 INFO     [async_req.py:37] Page took 1.5573632717132568
+30-05-2023 11:13:36 INFO     [app.py:49] Total page requests took 2.7566518783569336
+30-05-2023 19:32:41 INFO     [menu.py:42] Finding best books by rating...
